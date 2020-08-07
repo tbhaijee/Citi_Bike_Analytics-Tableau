@@ -1,15 +1,15 @@
 # Citi_Bike_Analytics-Tableau
 Tableau dashboard for NYC Citi Bike Data to analyze the popularity of starting and ending stations as well as the breakdown of user by gender, subscriber status, etc.
-Citi-Bike-Analytics
-Click [here] (https://public.tableau.com/profile/tasneem.bhaijee#!/vizhome/NYBikeReportFinal/NewYorkBikeStationsReport) to open the workbook.
+
+Click here (https://public.tableau.com/profile/tasneem.bhaijee#!/vizhome/NYBikeReportFinal/NewYorkBikeStationsReport) to open the workbook.
 
 The objective of this exercise is to create a dashboard for the New York Citi Bike Program.
 
-Citi-Bikes
+![alt text](https://github.com/tbhaijee/Citi_Bike_Analytics-Tableau/blob/master/Images/citi-bike-station-bikes.jpg)
 
 The data is collected, organized, and made public on the Citi Bike Data webpage.
 
-Here are Some of the findings:
+# Here are Some of the findings:
 1: The peak hours during a day is usually 7-8 AM and 5-6 PM throughout the year.
 
 ![alt text](https://github.com/tbhaijee/Citi_Bike_Analytics-Tableau/blob/master/Images/summer.PNG)
@@ -23,6 +23,6 @@ Here are Some of the findings:
 3: The major bike riders fall into the age group of 25-30 and 45-50 years of males. However the ridership among female users also seems to be increasing over time.
 
 The peak at the age group of 45-50 years and the ridership data at the older age groups (above 80-90 years) may also indicate the input error of birth year at the user end.
-![alt text](https://github.com/tbhaijee/Citi_Bike_Analytics-Tableau/blob/master/Images/Age.png)
+![alt text](https://github.com/tbhaijee/Citi_Bike_Analytics-Tableau/blob/master/Images/Age.png)cd 
 
 
