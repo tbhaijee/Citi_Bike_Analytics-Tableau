@@ -1,13 +1,13 @@
 # Citi_Bike_Analytics-Tableau
 Tableau dashboard for NYC Citi Bike Data to analyze the popularity of starting and ending stations as well as the breakdown of user by gender, subscriber status, etc.
 
-Click <a href= "https://public.tableau.com/profile/tasneem.bhaijee#!/vizhome/NYBikeReportFinal/NewYorkBikeStationsReport"> to open the workbook.</a>
+Click <a href= "https://public.tableau.com/profile/tasneem.bhaijee#!/vizhome/NYBikeReportFinal/NewYorkBikeStationsReport">here</a> to open the workbook.
 
-The objective of this exercise is to create a dashboard for the New York Citi Bike Program.
+The objective of this exercise is to create a dashboard for the <a href="https://en.wikipedia.org/wiki/Citi_Bike">New York Citi Bike</a> Program.
 
 ![alt text](https://github.com/tbhaijee/Citi_Bike_Analytics-Tableau/blob/master/Images/citi-bike-station-bikes.jpg)
 
-The data is collected, organized, and made public on the Citi Bike Data webpage.
+The data is collected, organized, and made public on the <a href="https://www.citibikenyc.com/system-data">Citi Bike Data</a> webpage.
 
 # Here are Some of the findings:
 1: The peak hours during a day is usually 7-8 AM and 5-6 PM throughout the year.
